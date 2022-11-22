@@ -1,7 +1,7 @@
 const bigSteps = new Object({
   formSteps: document.querySelectorAll(".form-step"),
   next: document.createElement("button"),
-  counter: document.createElement("span"),
+  counter: document.createElement("span.counter"),
   prev: document.createElement("button"),
   controls: document.createElement("div"),
   container: document.querySelector(".step-container"),

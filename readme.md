@@ -10,4 +10,17 @@ The styling offered is minimal. You just need to know what classes you would lin
 This is the parent container. By default it is styled to display flex;
 
 .form-step
+This contains the contents each section
+
+.step
+This is the component within each section
+
+.next
+This is the class for the next button
+
+.prev
+This is the class for the previous button
+
+.counter
+This is a span element that indicates the number of pages left
 
