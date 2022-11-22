@@ -4,7 +4,7 @@ const bigSteps = new Object({
   counter: document.createElement("span"),
   prev: document.createElement("button"),
   controls: document.createElement("div"),
-  container: document.querySelector("#step-container"),
+  container: document.querySelector(".step-container"),
   currentStep: 0,
 
   init: function () {

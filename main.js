@@ -1,7 +1,7 @@
 let formSteps = document.querySelectorAll('.form-step');
 let next = document.createElement('button');
 let prev = document.createElement('button');
-const container = document.querySelector('#step-container');
+const container = document.querySelector('.step-container');
 next.setAttribute('class', 'next');
 prev.setAttribute('class', 'prev');
 next.setAttribute('onclick', 'nextStep()');
