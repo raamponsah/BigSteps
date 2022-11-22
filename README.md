@@ -6,7 +6,7 @@ Bigsteps will handle everything
 ### Classes for style
 The styling offered is minimal. You just need to know what classes you would link to style. 
 
-*.steps-container*
+_.steps-container_
 This is the parent container. By default it is styled to display flex;
 
 *.form-step*
