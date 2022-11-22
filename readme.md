@@ -24,5 +24,5 @@ This is the class for the previous button
 .counter
 This is a span element that indicates the number of pages left
 
-
+With these class you are free to style it the way you want it.
 
