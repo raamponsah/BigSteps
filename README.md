@@ -3,7 +3,7 @@ This is a small javascript plugin to allow you to sectionalize your content in s
 Add the necessary classes and initialize.
 Bigsteps will handle everything
 
-### Classes for style
+### Classes for styling
 The styling offered is minimal. You just need to know what classes you would like to style. 
 
 **.steps-container**
