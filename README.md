@@ -6,22 +6,22 @@ Bigsteps will handle everything
 ### Classes for style
 The styling offered is minimal. You just need to know what classes you would link to style. 
 
-_.steps-container_
+**.steps-container**
 This is the parent container. By default it is styled to display flex;
 
-*.form-step*
+**.form-step**
 This contains the contents each section
 
-.step
+**.step**
 This is the component within each section
 
-.next
+**.next**
 This is the class for the next button
 
-.prev
+**.prev**
 This is the class for the previous button
 
-.counter
+**.counter**
 This is a span element that indicates the number of pages left
 
 With these class you are free to style it the way you want it.
